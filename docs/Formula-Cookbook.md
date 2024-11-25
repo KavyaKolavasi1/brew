@@ -100,7 +100,7 @@ Check the package’s `README`. Does the package install with `./configure`, `cm
 
 ### Check for dependencies
 
-The `README` probably tells you about dependencies and Homebrew or macOS probably already has them. You can check for Homebrew dependencies with `brew search`. Some common dependencies that macOS comes with:
+The `README` likely contains information about dependencies, and Homebrew or macOS may already have them installed. You can check for Homebrew dependencies with `brew search`. Some common dependencies that macOS comes with:
 
 * `libexpat`
 * `libGL`
